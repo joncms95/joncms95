@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Accounting graduate, Esports enthusiats and new to the space!
+### Accounting graduate, Esports enthusiats and new to the space!
 <!--
 **joncms95/joncms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
