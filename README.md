@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### Accounting Graduate, Esports Enthusiast and new to the space!
+<img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="45px">
+
 <!--
 **joncms95/joncms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
