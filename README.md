@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
 </p>
+<hr />
 
 <!--
 **joncms95/joncms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
