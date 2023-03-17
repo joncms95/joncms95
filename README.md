@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### Accounting Graduate, Esports Enthusiast and new to the space!
-<hr />
 
 ## I'm currently learning ... 🌱
 ### Front End
