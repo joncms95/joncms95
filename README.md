@@ -18,7 +18,6 @@ I'm an accounting graduate, esports enthusiast and new to the space!
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="flask">
 <img src="https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=Jinja&logoColor=white" alt="jinja">
 <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="django">
-
 </p>
 
 <!--
