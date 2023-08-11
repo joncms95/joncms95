@@ -1,5 +1,7 @@
 # Hey, I'm Jonathan. 👋
-I'm an accounting graduate, esports enthusiast and new to the space!
+I'm a passionate software engineer with a diverse background in accounting and esports.
+
+Excited to leverage this unique blend of skills in my future endeavours.
 
 ### What I Work With ⚙️
 <p style=left-align>
