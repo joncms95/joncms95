@@ -1,7 +1,8 @@
 # Hey, I'm Jonathan. 👋
-I'm a passionate software engineer with a diverse background in accounting and esports.
+An avid gamer turned tech enthusiast, with a diverse journey from accounting to esports to software engineering.
 
-Excited to leverage this unique blend of skills in my future endeavours.
+Mildly obsessed with clean code, I have a deep appreciation for clean, elegant code and take pride in keeping systems tidy and well-structured.
+I optimize workflows and systems to empower others and myself to build fast, scalable, and meaningful products.
 
 ### Get In Touch 📫
 <p style=left-align>
